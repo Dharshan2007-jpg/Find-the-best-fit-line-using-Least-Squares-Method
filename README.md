@@ -45,11 +45,15 @@ plt.scatter(x, y)                # Plot the actual data points
 plt.plot(x, y_predicted, color='red')  # Plot the regression line
 plt.show()
 ~~~
+
+
 ## Output:
 
 
 
 <img width="703" height="533" alt="image" src="https://github.com/user-attachments/assets/3685c8c0-d384-4959-b4e6-69dcaac41d85" />
+
+
 
 
 
