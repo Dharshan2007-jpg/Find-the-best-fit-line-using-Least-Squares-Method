@@ -45,7 +45,6 @@ plt.show()
 ~~~
 ## Output:
 
-
 <img width="703" height="533" alt="image" src="https://github.com/user-attachments/assets/3685c8c0-d384-4959-b4e6-69dcaac41d85" />
 
 
